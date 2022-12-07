@@ -3,11 +3,10 @@
 
 https://blog.csdn.net/jackaduma/article/details/52734731
 
-![静态代码检查首页](https://github.com/jackaduma/location_clustering/blob/master/a.jpg)
 
 
 
-python2.7 -> python3 修改修改部分代码
+python2.7 -> python3 修改部分代码
 ```bash
 Examples
 --------
